@@ -1,15 +1,8 @@
 ---
-title: "The Christ Deity on Daniel 7"
+title: "The Deity of Christ in Daniel 7"
 author: "Anthony William"
 date: 2026-08-25
 ---
-
-# THE CHRIST DEITY ON DANIEL 7
-
-**Author:** Anthony William  
-**Date:** 2026-08-25  
-**Note:** All emphasis in quotations is mine.
-
 ## Jewish View on Daniel 7
 
 Daniel 7 is one of the most important passages in discussions about whether the Messiah—and, in Christian interpretation, Jesus Christ—shares in divine identity. The vision presents two striking figures: the **Ancient of Days**, seated in judgment, and “one like a son of man,” who comes with the clouds of heaven and receives dominion, glory, and a kingdom. The central question is not simply whether the second figure is exalted. He plainly is. The harder question is what kind of figure he represents: the people of Israel, a heavenly angelic representative, the Messiah, or a figure who participates in God’s own heavenly rule.
