@@ -1,8 +1,7 @@
 ---
-title: "Archaeology and Genesis: Evidence the Bible Can Stand On"
+title: "Archaeology and Genesis"
 date: 2026-10-21
 author: Anthony William
-categories: [theology]
 ---
 
 ## Introduction
