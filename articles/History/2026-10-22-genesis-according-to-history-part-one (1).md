@@ -8,8 +8,6 @@ date: 2026-10-22
 
 The following article is based on the introduction to Genesis in Gleason L. Archer Jr., *A Survey of Old Testament Introduction* (Chicago: Moody Press), pp. 193-195. It shows that Genesis is not a random pile of ancient fragments but a carefully planned book of origins, and that its title, its authorship, its outline and even its repeated use of a single Hebrew word point to one guiding mind. This should trouble critics who treat Genesis as a patchwork of competing sources, since the structure of the book itself argues against them.
 
-This is PT 1 of a four-part series, *Genesis According to History*. When you finish reading, continue with [PT 2 →]({% post_url 2026-10-23-genesis-according-to-history-part-two %}), where we turn to creation, the pagan myths and the six days.
-
 With that said, I proceed to the summary.
 
 ## Why Begin with the Question of Authorship?
@@ -96,10 +94,6 @@ If Genesis is a unified book written by Moses from older family records, then th
 ## Conclusion
 
 The title, the authorship tradition, the outline and the use of *toledot* all point the same way: Genesis is a unified book of origins, written to show how God called a people to Himself through covenant. If so, its opening chapters must be read as history with a message. In [PT 2]({% post_url 2026-10-23-genesis-according-to-history-part-two %}) we turn to Genesis 1 itself, and to how it stands against the pagan creation myths and the debate over the "days" of creation.
-
-## Continue Reading
-
-**Next:** [Genesis According to History — PT 2 →]({% post_url 2026-10-23-genesis-according-to-history-part-two %})
 
 ## Sources and Further Reading
 
