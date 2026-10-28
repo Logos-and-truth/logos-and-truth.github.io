@@ -6,8 +6,6 @@ date: 2026-10-25
 
 ## Introduction
 
-This article is the continuation of [Genesis According to History — PT 1]({% post_url 2026-10-22-genesis-according-to-history-part-one %}), where we looked at the authorship and unity of Genesis, and of [PT 2]({% post_url 2026-10-23-genesis-according-to-history-part-two %}), where we looked at the pagan myths and the six days of creation. If you have not read them, I recommend starting with PT 1.
-
 The following article continues to draw on Gleason L. Archer Jr., *A Survey of Old Testament Introduction* (Chicago: Moody Press), pp. 203-209. It examines four weaknesses of Darwinian evolution in the light of [Genesis 1](https://www.sefaria.org/Genesis.1): the evidence from genetics, the argument from embryology, adaptations with no transitional stage, and the missing links. It shows that the theory was historically developed to explain life without divine influence, which is why the author finds it a dubious course for a Christian loyal to Scripture.
 
 *A note before we begin: these are the arguments as made in the source text, which comes from the late twentieth century. Most biologists today regard evolution by natural selection as well supported, and several of the points below have been answered in the scientific literature. Read this article as a summary of one author's case, and study both the biblical and the scientific sources for yourself.*
@@ -84,12 +82,6 @@ Whatever one concludes about the details, the author's central point is worth ke
 ## Conclusion
 
 The affirmation of [Genesis 1](https://www.sefaria.org/Genesis.1), that every kind of plant and animal came into being by the will of an all-wise God, explains the data of biology far better, in the author's view, than mechanical natural selection. In [PT 4]({% post_url 2026-10-26-genesis-according-to-history-part-four %}), the final part, we turn to the antiquity of man, the genealogies of Genesis, and the question of Adam.
-
-## Continue Reading
-
-**Previous:** [← PT 2]({% post_url 2026-10-23-genesis-according-to-history-part-two %})
-
-**Next:** [Genesis According to History — PT 4 →]({% post_url 2026-10-26-genesis-according-to-history-part-four %})
 
 ## Sources and Further Reading
 
