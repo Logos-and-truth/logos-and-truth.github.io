@@ -6,8 +6,6 @@ date: 2026-10-23
 
 ## Introduction
 
-This article is the continuation of [Genesis According to History — PT 1]({% post_url 2026-10-22-genesis-according-to-history-part-one %}), where we saw that Genesis is a unified book of origins, most plausibly written by Moses under the Spirit from older family records. If you have not read PT 1, I recommend starting there.
-
 The following article continues to draw on Gleason L. Archer Jr., *A Survey of Old Testament Introduction* (Chicago: Moody Press), pp. 195-203. It shows that [Genesis 1](https://www.sefaria.org/Genesis.1) stands apart from the pagan creation myths in teaching creation out of nothing, that the case for an ancient earth rests on an assumption that has been challenged, and that the Hebrew word *yom*, "day," allows more than one reading among sincere believers. This should trouble anyone who thinks the Bible must be set against science, or who thinks there is only one faithful way to read the days of creation.
 
 With that said, I proceed to the summary.
@@ -94,12 +92,6 @@ The debate over the days can become heated, but notice what all three views shar
 ## Conclusion
 
 Genesis stands apart from the pagan myths in teaching creation out of nothing, and the length of the "days" remains a matter on which sincere believers differ. The deeper issue is whether God created at all. In [PT 3]({% post_url 2026-10-25-genesis-according-to-history-part-three %}) we weigh Darwinian evolution against the biblical record.
-
-## Continue Reading
-
-**Previous:** [← PT 1]({% post_url 2026-10-22-genesis-according-to-history-part-one %})
-
-**Next:** [Genesis According to History — PT 3 →]({% post_url 2026-10-25-genesis-according-to-history-part-three %})
 
 ## Sources and Further Reading
 
