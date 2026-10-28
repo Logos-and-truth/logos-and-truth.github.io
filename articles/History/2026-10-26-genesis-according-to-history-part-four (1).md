@@ -6,7 +6,7 @@ date: 2026-10-26
 
 ## Introduction
 
-This article is the final continuation of the series that began in [Genesis According to History — PT 1]({% post_url 2026-10-22-genesis-according-to-history-part-one %}), and follows [PT 2]({% post_url 2026-10-23-genesis-according-to-history-part-two %}) and [PT 3]({% post_url 2026-10-25-genesis-according-to-history-part-three %}). If you have not read the earlier parts, I recommend starting with PT 1.
+This article is the final continuation of the series, If you have not read the earlier parts, I recommend starting with PT 1.
 
 The following article continues to draw on Gleason L. Archer Jr., *A Survey of Old Testament Introduction* (Chicago: Moody Press), pp. 209-212. It shows how the fossil finds of early man and the genealogies of [Genesis 5](https://www.sefaria.org/Genesis.5) and [10](https://www.sefaria.org/Genesis.10) raise a hard question about the age of the human race, and it sets out the author's proposal that these early races were prior to Adam. This is a proposal and not a settled doctrine, and Bible-believing Christians hold a range of views on it.
 
